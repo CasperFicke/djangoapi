@@ -1,3 +1,4 @@
+# Serializer ; converting database to and from json
 from rest_framework import serializers
 
 from .models import Course
